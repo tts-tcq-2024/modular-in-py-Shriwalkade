@@ -1,4 +1,4 @@
-from input import test_number_to_pair,test_pair_to_number
+from Input import test_number_to_pair,test_pair_to_number
 from print import print_output
 
 
